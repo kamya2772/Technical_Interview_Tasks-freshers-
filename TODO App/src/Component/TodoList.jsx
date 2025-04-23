@@ -53,6 +53,7 @@ function TodoList() {
             placeholder="Enter a task"
             className="flex-1 px-3 py-2 border rounded-l-md focus:outline-none"
           />
+
           <button
             type="submit"
             className="bg-blue-600 text-white px-4 py-2 rounded-r-md"
